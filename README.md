@@ -1,0 +1,1 @@
+# Getting Started with Create React App + Tailwind CSS 2.1.4 JIT Mode
