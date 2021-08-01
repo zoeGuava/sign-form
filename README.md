@@ -1,6 +1,6 @@
 # Getting Started with Create React App + Tailwind CSS 2.1.4 JIT Mode
 
-(Vitawind)[https://vitawind-blog.vercel.app/scaffolding/]
+[Vitawind](https://vitawind-blog.vercel.app/scaffolding/)
 
 Started with `npm init vitawind@latest {project-name} -- --cra`
 
