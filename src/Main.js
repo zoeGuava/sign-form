@@ -107,7 +107,7 @@ function Form() {
           
       <p className="text-center text-xs text-gray-400">
         By clicking the button, you are agreeing to our 
-        <b src="#" className="cursor-pointer font-bold text-red-400"> Terms and Services</b>
+        <b className="cursor-pointer font-bold text-red-400"> Terms and Services</b>
       </p>
     </form>
   )
